@@ -8,7 +8,7 @@ public class Round {
     private Set<User> players;
     
     public Round(int id, Set<User> players) {
-        super();
+       
         this.id = id;
         this.players = players;
     }
