@@ -8,11 +8,11 @@ public class User {
     
     
     public User() {
-       
+    	
         // TODO Auto-generated constructor stub
     }
     public User(int id, String name, String password, int level) {
-        
+       
         this.id = id;
         this.name = name;
         this.password = password;
